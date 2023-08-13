@@ -6,10 +6,6 @@ name2 = input("What is their name? \n")
 
 #Write your code below this line 👇
 
-print("Welcome to love Calculator!")
-name1 = input("What is your name? ").lower()
-name2 = input("What is their name? ").lower()
-
 combine_string = name1 + name2
 lower_case = combine_string.lower()
 
